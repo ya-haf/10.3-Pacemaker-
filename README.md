@@ -25,5 +25,5 @@
 
 ## Задание 3
 
-<img src="https://github.com/ya-haf/10.3-Pacemaker-/blob/main/img/Pacemaker,%20Corosync,%20Pcs.png?raw=true" width=100% height=100%>
+<img src="https://github.com/ya-haf/10.3-Pacemaker-/blob/main/img/Pacemaker,%20Corosync,%20Pcs.png?raw=true" width=150% height=150%>
 <img src="https://github.com/ya-haf/10.3-Pacemaker-/blob/main/img/Pacemaker,%20Corosync,%20Pcs2.png?raw=true" width=100% height=100%>
